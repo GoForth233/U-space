@@ -5,19 +5,11 @@
   <parent>
     <groupId>com.xiaou</groupId>
     <artifactId>Code-Nest</artifactId>
-<<<<<<< HEAD
-    <version>1.5.0</version>
-  </parent>
-  <groupId>com.xiaou</groupId>
-  <artifactId>xiaou-sensitive-api</artifactId>
-  <version>1.5.0</version>
-=======
     <version>1.6.0</version>
   </parent>
   <groupId>com.xiaou</groupId>
   <artifactId>xiaou-sensitive-api</artifactId>
   <version>1.6.0</version>
->>>>>>> upstream/master
   <name>xiaou-sensitive-api</name>
   <description>敏感词模块API接口</description>
   <dependencies>
