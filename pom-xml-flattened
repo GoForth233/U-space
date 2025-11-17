@@ -4,7 +4,11 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.xiaou</groupId>
   <artifactId>Code-Nest</artifactId>
+<<<<<<< HEAD
   <version>1.5.0</version>
+=======
+  <version>1.6.0</version>
+>>>>>>> upstream/master
   <packaging>pom</packaging>
   <modules>
     <module>xiaou-common</module>
@@ -25,6 +29,8 @@
     <module>xiaou-points</module>
     <module>xiaou-chat</module>
     <module>xiaou-blog</module>
+    <module>xiaou-codepen</module>
+    <module>xiaou-resume</module>
   </modules>
   <properties>
     <maven-jar-plugin.version>3.2.2</maven-jar-plugin.version>
@@ -35,7 +41,11 @@
     <hutool.version>5.8.35</hutool.version>
     <spring-boot.version>3.2.5</spring-boot.version>
     <flatten-maven-plugin.version>1.3.0</flatten-maven-plugin.version>
+<<<<<<< HEAD
     <revision>1.5.0</revision>
+=======
+    <revision>1.6.0</revision>
+>>>>>>> upstream/master
     <lombok.version>1.18.36</lombok.version>
     <maven.compiler.target>17</maven.compiler.target>
     <jjwt.version>0.11.5</jjwt.version>
